@@ -1,0 +1,24 @@
+{
+  "name": "ensure-dir",
+  "version": "0.0.0",
+  "description": "Make sure a directory exists and create the non-exist ones.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gera2ld/ensure-dir.git"
+  },
+  "keywords": [
+    "node",
+    "dir",
+    "ensure"
+  ],
+  "author": "Gerald <i@gerald.top>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gera2ld/ensure-dir/issues"
+  },
+  "homepage": "https://github.com/gera2ld/ensure-dir#readme"
+}
